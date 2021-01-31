@@ -1,0 +1,34 @@
+.nav-bar{
+    position: relative;
+    top: 2rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav ul li{
+    display: inline;   
+}
+.title{
+    color: blue;
+    text-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.24);
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: grey;
+    padding: 1.5rem;  
+    font-weight: 1000;
+}
+
+ul li a.active{
+    color: blue;
+    border-bottom: 1px solid blue;
+    text-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.24);
+}
+
+nav ul li a:hover{
+    color: blue;
+    border-bottom: 1px solid blue;
+    text-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.24);
+    transition: all 1s ease;
+}
