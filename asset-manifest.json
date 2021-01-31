@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio-master/static/css/main.b0131cbc.chunk.css",
+    "main.js": "/React-Portfolio-master/static/js/main.019b952e.chunk.js",
+    "main.js.map": "/React-Portfolio-master/static/js/main.019b952e.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio-master/static/js/runtime-main.453b9150.js",
+    "runtime-main.js.map": "/React-Portfolio-master/static/js/runtime-main.453b9150.js.map",
+    "static/js/2.46175d1a.chunk.js": "/React-Portfolio-master/static/js/2.46175d1a.chunk.js",
+    "static/js/2.46175d1a.chunk.js.map": "/React-Portfolio-master/static/js/2.46175d1a.chunk.js.map",
+    "static/js/3.32f8aece.chunk.js": "/React-Portfolio-master/static/js/3.32f8aece.chunk.js",
+    "static/js/3.32f8aece.chunk.js.map": "/React-Portfolio-master/static/js/3.32f8aece.chunk.js.map",
+    "index.html": "/React-Portfolio-master/index.html",
+    "static/css/main.b0131cbc.chunk.css.map": "/React-Portfolio-master/static/css/main.b0131cbc.chunk.css.map",
+    "static/js/2.46175d1a.chunk.js.LICENSE.txt": "/React-Portfolio-master/static/js/2.46175d1a.chunk.js.LICENSE.txt",
+    "static/media/Humaaans2.1efbb958.png": "/React-Portfolio-master/static/media/Humaaans2.1efbb958.png",
+    "static/media/Humaans1.7e965f47.png": "/React-Portfolio-master/static/media/Humaans1.7e965f47.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.453b9150.js",
+    "static/js/2.46175d1a.chunk.js",
+    "static/css/main.b0131cbc.chunk.css",
+    "static/js/main.019b952e.chunk.js"
+  ]
+}
